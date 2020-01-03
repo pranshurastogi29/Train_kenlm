@@ -1,5 +1,7 @@
 ## KenLM
 KenLM performs interpolated modified Kneser Ney Smoothing for estimating the n-gram probabilities.
+for more goto - 
+KenLM: Faster and Smaller Language Model Queries http://kheafield.com/code/kenlm/
 
 --------
 
