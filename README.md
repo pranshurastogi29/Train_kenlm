@@ -109,6 +109,8 @@ Now we can train the model. For training a *trigram model* with Kneser-Ney smoot
   
   
   ---------------
+  you can check some more example on how to use kenlm for other languages at 
+  https://yidatao.github.io/2017-05-31/kenlm-ngram/
   
   #### References:
   1) http://www.statmt.org/moses/?n=FactoredTraining.BuildingLanguageModel
